@@ -1,0 +1,24 @@
+# Node.js .gitignore
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+
+# IDE files
+.idea/
+.vscode/
+
+# Environment variables
+.env
